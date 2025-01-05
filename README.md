@@ -1,6 +1,6 @@
 # Project Title
 
-**Project Title** is a brief description of what your project does and the purpose it serves.
+**Kutubook** is a brief description of what your project does and the purpose it serves.
 
 ## Table of Contents
 
